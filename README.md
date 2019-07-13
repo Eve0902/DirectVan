@@ -1,4 +1,8 @@
-# VanBB
-This is a chatBot for Vancouver Recycling system
+# DirectVan
+This is a chatBot for Vancouver Recycling system.
 You can directly type your questions to this chatBot and get an answer.
-For example, you can directly ask that how to throw an air conditioner. 
+For example:
+- you: where can I directly recycle conditional?
+- ChatBot: This item can be dropped off at your local recycling depot. To find out which depot near you accepts this item, please visit MetroVancouverRecycles or call the Recycling Council of British Columbia Hotline 604-732-9253.
+
+//Due to the limit of buget to support the Azure QnA service, it cannot work now. 
